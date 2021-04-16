@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="22" passed="22" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-16T09:14:38Z" name="Regression Suite" finished-at="2021-04-16T09:16:14Z" duration-ms="95599">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="CruisesPageTestAndDeckPageTest.clickSearchButton()[pri:7, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickSearchButton" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+      </group> <!-- SmokeTest -->
+      <group name="Regression Test">
+        <method signature="NairobiSearchResultsPageTest.ClickGuestsDropDownTest()[pri:7, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="ClickGuestsDropDownTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.checkElevatorTest()[pri:13, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="checkElevatorTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.check_in_test()[pri:4, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="check_in_test" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.chooseNumberOfGuestsTest()[pri:8, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="chooseNumberOfGuestsTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.chooseSortBy()[pri:11, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="chooseSortBy" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.clickMoreOptionsTest()[pri:12, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="clickMoreOptionsTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.clickOnHolidayHomesNameLinksTest()[pri:15, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="clickOnHolidayHomesNameLinksTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.clickSortByTest()[pri:10, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="clickSortByTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.destination_test()[pri:3, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="destination_test" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.select_check_in_date_test()[pri:5, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="select_check_in_date_test" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.select_check_out_date_test()[pri:6, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="select_check_out_date_test" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.writetoExcelTest()[pri:14, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="writetoExcelTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.clickCruiseShipTest()[pri:6, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickCruiseShipTest" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.clickCruisesLineTest()[pri:5, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickCruisesLineTest" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.clickSearchButton()[pri:7, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickSearchButton" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.destination_test()[pri:3, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="destination_test" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+      </group> <!-- Regression Test -->
+      <group name="Smoke Test">
+        <method signature="NairobiSearchResultsPageTest.ClickGuestsDropDownTest()[pri:7, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="ClickGuestsDropDownTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.TestHolidayHomesButton()[pri:2, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="TestHolidayHomesButton" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.check_url()[pri:1, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="check_url" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.clickApplyButtonTest()[pri:9, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="clickApplyButtonTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.clickOnHolidayHomesNameLinksTest()[pri:15, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="clickOnHolidayHomesNameLinksTest" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="NairobiSearchResultsPageTest.destination_test()[pri:3, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" name="destination_test" class="com.calculatetripcost.testcases.NairobiSearchResultsPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.TestHolidayHomesButton()[pri:2, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="TestHolidayHomesButton" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.check_url()[pri:1, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="check_url" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.clickCruiseShipTest()[pri:6, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickCruiseShipTest" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.clickCruisesLineTest()[pri:5, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickCruisesLineTest" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.clickCruisesLinkTextTest()[pri:4, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="clickCruisesLinkTextTest" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+        <method signature="CruisesPageTestAndDeckPageTest.destination_test()[pri:3, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" name="destination_test" class="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest"/>
+      </group> <!-- Smoke Test -->
+    </groups>
+    <test started-at="2021-04-16T09:14:38Z" name="Nairobi Search Results Page" finished-at="2021-04-16T09:15:40Z" duration-ms="61647">
+      <class name="com.calculatetripcost.testcases.NairobiSearchResultsPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:14:38Z" name="openBrowser" finished-at="2021-04-16T09:14:40Z" duration-ms="2048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="check_url()[pri:1, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:14:40Z" name="check_url" finished-at="2021-04-16T09:14:43Z" duration-ms="2610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_url -->
+        <test-method signature="TestHolidayHomesButton()[pri:2, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:14:43Z" name="TestHolidayHomesButton" finished-at="2021-04-16T09:14:43Z" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHolidayHomesButton -->
+        <test-method signature="destination_test()[pri:3, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:14:43Z" name="destination_test" finished-at="2021-04-16T09:15:02Z" duration-ms="18707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destination_test -->
+        <test-method signature="check_in_test()[pri:4, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:02Z" name="check_in_test" finished-at="2021-04-16T09:15:03Z" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_in_test -->
+        <test-method signature="select_check_in_date_test()[pri:5, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:03Z" name="select_check_in_date_test" finished-at="2021-04-16T09:15:03Z" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_check_in_date_test -->
+        <test-method signature="select_check_out_date_test()[pri:6, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:03Z" name="select_check_out_date_test" finished-at="2021-04-16T09:15:04Z" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_check_out_date_test -->
+        <test-method signature="ClickGuestsDropDownTest()[pri:7, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:04Z" name="ClickGuestsDropDownTest" finished-at="2021-04-16T09:15:04Z" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGuestsDropDownTest -->
+        <test-method signature="chooseNumberOfGuestsTest()[pri:8, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:04Z" name="chooseNumberOfGuestsTest" finished-at="2021-04-16T09:15:04Z" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseNumberOfGuestsTest -->
+        <test-method signature="clickApplyButtonTest()[pri:9, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:04Z" name="clickApplyButtonTest" finished-at="2021-04-16T09:15:10Z" duration-ms="6156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickApplyButtonTest -->
+        <test-method signature="clickSortByTest()[pri:10, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:10Z" name="clickSortByTest" finished-at="2021-04-16T09:15:10Z" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSortByTest -->
+        <test-method signature="chooseSortBy()[pri:11, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:10Z" name="chooseSortBy" finished-at="2021-04-16T09:15:13Z" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseSortBy -->
+        <test-method signature="clickMoreOptionsTest()[pri:12, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:13Z" name="clickMoreOptionsTest" finished-at="2021-04-16T09:15:13Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMoreOptionsTest -->
+        <test-method signature="checkElevatorTest()[pri:13, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:13Z" name="checkElevatorTest" finished-at="2021-04-16T09:15:17Z" duration-ms="3783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkElevatorTest -->
+        <test-method signature="writetoExcelTest()[pri:14, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:17Z" name="writetoExcelTest" finished-at="2021-04-16T09:15:17Z" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writetoExcelTest -->
+        <test-method signature="clickOnHolidayHomesNameLinksTest()[pri:15, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:17Z" name="clickOnHolidayHomesNameLinksTest" finished-at="2021-04-16T09:15:39Z" duration-ms="21944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHolidayHomesNameLinksTest -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.calculatetripcost.testcases.NairobiSearchResultsPageTest@6d07a63d]" started-at="2021-04-16T09:15:39Z" name="quit" finished-at="2021-04-16T09:15:40Z" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.calculatetripcost.testcases.NairobiSearchResultsPageTest -->
+    </test> <!-- Nairobi Search Results Page -->
+    <test started-at="2021-04-16T09:15:40Z" name="Cruises Page Test" finished-at="2021-04-16T09:16:14Z" duration-ms="33937">
+      <class name="com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:15:40Z" name="openBrowser" finished-at="2021-04-16T09:15:41Z" duration-ms="1085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="check_url()[pri:1, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:15:41Z" name="check_url" finished-at="2021-04-16T09:15:44Z" duration-ms="3044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_url -->
+        <test-method signature="TestHolidayHomesButton()[pri:2, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:15:44Z" name="TestHolidayHomesButton" finished-at="2021-04-16T09:15:44Z" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHolidayHomesButton -->
+        <test-method signature="destination_test()[pri:3, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:15:44Z" name="destination_test" finished-at="2021-04-16T09:16:01Z" duration-ms="16626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destination_test -->
+        <test-method signature="clickCruisesLinkTextTest()[pri:4, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:16:01Z" name="clickCruisesLinkTextTest" finished-at="2021-04-16T09:16:03Z" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCruisesLinkTextTest -->
+        <test-method signature="clickCruisesLineTest()[pri:5, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:16:03Z" name="clickCruisesLineTest" finished-at="2021-04-16T09:16:05Z" duration-ms="1775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCruisesLineTest -->
+        <test-method signature="clickCruiseShipTest()[pri:6, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:16:05Z" name="clickCruiseShipTest" finished-at="2021-04-16T09:16:07Z" duration-ms="1909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCruiseShipTest -->
+        <test-method signature="clickSearchButton()[pri:7, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:16:07Z" name="clickSearchButton" finished-at="2021-04-16T09:16:13Z" duration-ms="6651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchButton -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest@73302995]" started-at="2021-04-16T09:16:13Z" name="quit" finished-at="2021-04-16T09:16:14Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.calculatetripcost.testcases.CruisesPageTestAndDeckPageTest -->
+    </test> <!-- Cruises Page Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
